@@ -1,0 +1,12 @@
+.menu {
+  &-container {
+    display: flex;
+  }
+  &-items {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    justify-content: space-between;
+    flex: 1;
+  }
+}
